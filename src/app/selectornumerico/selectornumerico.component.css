@@ -1,0 +1,18 @@
+.container{
+    display: inline-block;
+    margin: auto;
+}
+
+.valor{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    background-color: #ff0;
+    font-size: 2rem;
+}
+
+button{
+    height: 3rem;
+}
